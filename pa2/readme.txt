@@ -9,8 +9,6 @@ This program supports implementing the Supowit's algorithm.
 DIRECTORY:
 
 src/ 	  main.cpp
-makefile
-mps
 
 ======
 HOW TO CIMPILE:
