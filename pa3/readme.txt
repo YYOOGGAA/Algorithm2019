@@ -13,8 +13,6 @@ src/      nodeMgr.cpp
 src/      nodeMgr.h 
 src/      node.h 
 src/      heap.h
-makefile
-cb
 
 ======
 HOW TO CIMPILE:
